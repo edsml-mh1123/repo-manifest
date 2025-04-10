@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com/" />
+
+  <default remote="github" revision="main" sync-j="4" />
+
+  <project name="ar7-wg1-fod-ch99-fig99-ESMVal" path="ar7-wg1-fod-ch99-fig99-ESMVal" />
+  <project name="ar7-wg1-fod-ch99-fig99-Python" path="ar7-wg1-fod-ch99-fig99-Python" />
+  <project name="ar7-wg1-fod-ch99-fig99-R" path="ar7-wg1-fod-ch99-fig99-R" />
+  <project name="ar7-wg1-fod-ch99-fig99-Mix" path="ar7-wg1-fod-ch99-fig99-Mix" />
+</manifest>
